@@ -17,7 +17,7 @@ body {
 
 .bottom-container{
   background-color: #66BFBF;
-  padding: 50px 0 20px;
+  padding: 30px 0 10px;
 }
 
 .bottom-cloud {
@@ -149,5 +149,5 @@ a:hover{
 .copyright{
   color: #EAF6F6;
   font-size: 0.75rem;
-  padding: 20px;
+  padding: 10px;
 }
